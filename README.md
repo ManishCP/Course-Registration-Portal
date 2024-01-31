@@ -87,7 +87,7 @@ The individual contributions are displayed here.
 5. Comparators for sorting course details based on name -> Puja Kalivarapu 
 6. Streams to filter and search courses and students -> Puja Kalivarapu 
 7. ENUM's to declare user roles -> Manish Chikkavadaragudi Prasanna Kumar
-8. Singleton design pattern for creating SessionFactory for Hibernate -> 
+8. Singleton design pattern for creating SessionFactory for Hibernate -> Manish Chikkavadaragudi Prasanna Kumar
 9. Factory design pattern to create Student and Person accounts -> Srishti C Rai
 10. Read CSV files to get Student and Person details using Generic class -> Srishti C Rai
 11. Used various data structures like Arrays, List, Set etc. -> Srishti C Rai
